@@ -1,0 +1,75 @@
+.nav-container {
+    position: relative;
+    background-color: #FFF0ED; 
+    text-align: left;
+}
+
+.nav-container h2 {
+    font-family: 'Open Sans Light';
+    font-weight: 300;
+    font-size: 2.063rem;
+}
+
+.nitro-container {
+    position: relative;
+    background-color: #FFF0ED; 
+    text-align: left;
+}
+
+.nitro-container h1 {
+    font-family: 'Open Sans Light';
+    font-weight: 300;
+    text-size-adjust: 3.75rem;
+}
+
+.nitro-container h2 {
+    font-family: 'Open Sans Light';
+    font-weight: 300;
+    text-size-adjust: 2.063rem;
+}
+
+.shop-now-button {
+    background-color: #5BACC3;
+    color: #FFF;
+    border: none; 
+}
+
+.view-all-button {
+    background-color: #5BACC3;
+    color: #FFF;
+    border: none; 
+}
+
+.products-container h2, h3{
+    font-family: 'Open Sans Light';
+    font-weight: 300;
+    text-size-adjust: 2.063rem;
+}
+
+.discount-container {
+    position: relative;
+    background-color: #393939;
+    text-align: center;
+    color: #FFF;
+    text-size-adjust: 2.813rem;
+    font-weight: 400;
+    width: 90%;
+}
+
+.footer-container {
+    position: relative;
+    background-color: #FFF0ED; 
+    text-align: left;
+    font-family: 'Open Sans Regular';
+    font-weight: 400;
+    font-size: 1.125rem;
+}
+
+.footer-container h3 {
+    position: relative;
+    background-color: #FFF0ED; 
+    text-align: left;
+    text-size-adjust: 3.75rem;
+    font-family: 'Open Sans Light';
+    ;
+}
